@@ -1,2 +1,9 @@
 # Sound_Recorder_with_Recorder.JS
-Sound recorder with recorder.js and raw PHP saved it on a particular directory
+##it only save the file in the live server 
+Sound recorder with recorder.js and raw PHP , There's a form to name the recording<br>
+It saves the  file into uploads directory folder. <br>
+
+
+
+
+
